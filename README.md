@@ -2,15 +2,14 @@
   <img src="https://api.boot.dev/v1/users/public/bd7a22ed-d9c1-46fb-bd24-8722b618c901/thumbnail" alt="Boot.dev Badge"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Beggcode</h1>
+<h1 align="center">Hi , I'm Beggcode</h1>
 <h3 align="center">CS Student | Always Learning</h3>
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently building: **Asteroids in Python (pygame)**
-- 🌱 Learning: **Python, Go, and soon JavaScript**
-- 🛠 Focused on: **CS fundamentals & DevOps foundations**
+###  About Me
+-  Learning: **Python, Go, and soon JavaScript**
+-  Focused on: **CS fundamentals, backend & DevOps foundations**
 
 ---
 
@@ -31,4 +30,4 @@
 
 ---
 
-✨ _Building solid foundations one commit at a time._
+
