@@ -8,12 +8,12 @@
 ---
 
 ###  About Me
--  Learning: **Python, Go, and soon JavaScript**
--  Focused on: **CS fundamentals, backend & DevOps foundations**
+-  Learning: **Python, Go, and JavaScript**
+-  Focused on: **CS fundamentals and backend**
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
