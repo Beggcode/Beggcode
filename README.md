@@ -7,11 +7,6 @@
 
 ---
 
-###  About Me
--  Learning: **Python, Go, and JavaScript**
--  Focused on: **CS fundamentals and backend**
-
----
 
 ###  Languages & Tools
 <p align="left">
