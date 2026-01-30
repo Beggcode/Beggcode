@@ -2,12 +2,11 @@
   <img src="https://api.boot.dev/v1/users/public/bd7a22ed-d9c1-46fb-bd24-8722b618c901/thumbnail" alt="Boot.dev Badge"/>
 </p>
 
-<h1 align="center">Hi, I'm Beggcode</h1>
-<h3 align="center">CS Student | Always Learning</h3>
+<h1 align="center">Beggcode</h1>
 
 ---
 
-### 🚀 Languages & Tools
+###  Languages & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -25,8 +24,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Beggcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beggcode&show_icons=true&theme=radical)
-
----
